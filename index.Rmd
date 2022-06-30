@@ -1,6 +1,6 @@
 ---
 title: "Lab journal"
-author: "by: Rob Franken"
+author: "by: test 123"
 #bibliography: references.bib
 output: 
   html_document:
@@ -50,6 +50,7 @@ Last compiled on `r format(Sys.time(), '%B, %Y')`
   
 Participants of the BIGSSS Summer School can fork this repository. Using this, they can journal their work and assignments.
 
+test436346
 
 :::
 ::: {.column width="50%"}
