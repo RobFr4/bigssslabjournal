@@ -37,6 +37,8 @@ Last compiled on `r format(Sys.time(), '%B, %Y')`
 
 <br>
 
+edit121324
+
 ----
   
 This is just an example page of your lab journal.
